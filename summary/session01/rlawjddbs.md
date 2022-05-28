@@ -43,3 +43,6 @@
 - 정적 리소스만 제공하는 웹 서버는 잘 죽지 않음
 - 애플리케이션 로직이 동작하는 WAS 서버는 잘 죽음
 - WAS, DB 장애 시 WEB 서버가 오류 화면 제공 가능
+
+
+![이미지가 안떴을 때 표시할 문구](https://github.com/uncle-nephew/Spring-MVC/blob/main/summary/session01/images/untitled.png)  
